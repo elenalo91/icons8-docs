@@ -73,8 +73,3 @@ Below is the list of suggested places where you may set up a link:
 - Social network - please place the link in some of your posts
 - T-shirts, mugs, umbrellas etc. - put the link in some noticeable location of the product
 </details>
-
-
-  </li>
-  <hr>
-</ul>

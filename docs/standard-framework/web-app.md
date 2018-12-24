@@ -26,7 +26,7 @@ page_nav:
 <br>
 Searching is accomplished by entering a search query in the search bar as demonstrated below and pressing enter key / search button. The most relevant icons set shows up. While entering search queries, you may quickly vary icons styles, by selecting a style from the drop down menu. You have an option to view plain icons only as well as icons with titles just by toggling an approprite switch button on the top right of the screen:
 
-![Export assets](public/icons/search_with_query_3.png)
+![Export assets](public/JSON_RETRIEVE.png.png)
 
 <br>
 

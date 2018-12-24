@@ -76,8 +76,8 @@
 								<div class="row">
 									{% for item in page.grid_navigation %}
 										<div class="grid-section-description">
-											<h3>{{ item.section }}</h3>
-											<p>{{ item.section-description }}</p>
+											<h2>{{ item.section }}</h2>
+											<p class="section-description">{{ item.section-description }}</p>
 										</div>
 										{% for card in item.cards %}
 										<div class="col-sm-6 col-lg-4 grid-item-container">

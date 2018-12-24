@@ -395,6 +395,6 @@ In case you have any question, issue or concern, no matter are you a paying or a
 </p>
   
 </details>
-<hr>
 </li> 
+<hr>
 </ul>

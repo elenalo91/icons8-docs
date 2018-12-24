@@ -19,7 +19,6 @@ page_nav:
       url: '/standard-framework/licensing'
 ---
 
-## Web App
 
 [Icons web app](https://icons8.com/icons) is availale on any modern web browser and can be accessed via the URL: https://icons8.com/icons. The subsections below grasp the main features of the web app:
   

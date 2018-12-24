@@ -25,6 +25,24 @@ Paid and free of charge options are available to our clients.
 
 <ul>
 <hr>
+<li>
+<details>
+  <summary>
+    <strong> PAID option  </strong>
+  </summary>
+  
+Paying customers are elegible to download icons in png, svg, eps and pdf file formats in any size up to 2048 pixels. Licensing is available in the form of subscriptions - monthly (your account is charged every month) or yearly (you charged once per year). You may cancel your subscription at any time. All materials downloaded while you are on subscription <b>STAY YOURS FOR GOOD</b>. You may continue to use them in current or future commercial projects with few restrictions. Please read more about [permitted and prohibited uses](https://icons8.com/download/Icons8_License.pdf).
+
+[Monthly subscription would cost you 19.95$ and yearly 199.90$](https://icons8.com/paid-license-99/#/). 
+
+</details>
+
+</li>
+<hr>
+<li>
+<details>
+  <summary><ul>
+<hr>
   <li>
   <details>
     <summary>
@@ -73,6 +91,8 @@ Below is the list of suggested places where you may set up a link:
 - Social network - please place the link in some of your posts
 - T-shirts, mugs, umbrellas etc. - put the link in some noticeable location of the product
 </details>
-</li>
-<hr>
+
+
+  </li>
+  <hr>
 </ul>

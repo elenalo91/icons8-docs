@@ -25,9 +25,9 @@ page_nav:
 ## Searching 
 <br>
 Searching is accomplished by entering a search query in the search bar as demonstrated below and pressing enter key / search button. The most relevant icons set shows up. While entering search queries, you may quickly vary icons styles, by selecting a style from the drop down menu. You have an option to view plain icons only as well as icons with titles just by toggling an approprite switch button on the top right of the screen:
-<p align="center">
-<img src='https://muraragi.github.io/icons8-docs/public/icons/search_with_query_3.png'>
-</p> 
+
+![Export assets](public/icons/search_with_query_3.png)
+
 <br>
 
 Alternatively searching could be accomplished by browsing through categorized sets of icons listed on the left pane of the app and at the same time by applying various styles as it is shown below. Note that sets of icons available <b>for free in SVG are highlighted</b> with <b>FREE SVG</b> label:

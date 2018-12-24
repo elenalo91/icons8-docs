@@ -73,25 +73,25 @@
 					<div class="row">
 						<div class="col-md-12">
 							<div class="nav-grid nav-grid--out">
-								<div class="row">
-									{% for item in page.grid_navigation %}
-										<div class="grid-section-description">
-											<h2>{{ item.section }}</h2>
-											<p class="section-description">{{ item.section-description }}</p>
-										</div>
-										{% for card in item.cards %}
-										<div class="col-sm-6 col-lg-4 grid-item-container">
-											<a href="{% if jekyll.environment == 'production' %}{{ site.doks.baseurl }}{% endif %}{{ card.url }}" class="nav-grid__item">
-												<div class="nav-grid__content">
-													<img src="https://png.icons8.com/windows/96/24282A/{{ card.icon }}.png" class="nav-grid__logo">
-													<h2 class="nav-grid__title">{{ card.title }}</h2>
-													<p>{{ card.excerpt }}</p>
-												</div><!-- /.nav-grid__content -->
-											</a><!-- /.nav-grid__item -->
-										</div><!-- /.col -->
-										{% endfor %}
-									{% endfor %}
-								</div><!-- /.row -->
+								{% for item in page.grid_navigation %}
+									<div class="row">
+											<div class="grid-section-description">
+												<h2>{{ item.section }}</h2>
+												<p class="section-description">{{ item.section-description }}</p>
+											</div>
+											{% for card in item.cards %}
+											<div class="col-sm-6 col-lg-4 grid-item-container">
+												<a href="{% if jekyll.environment == 'production' %}{{ site.doks.baseurl }}{% endif %}{{ card.url }}" class="nav-grid__item">
+													<div class="nav-grid__content">
+														<img src="https://png.icons8.com/windows/96/24282A/{{ card.icon }}.png" class="nav-grid__logo">
+														<h2 class="nav-grid__title">{{ card.title }}</h2>
+														<p>{{ card.excerpt }}</p>
+													</div><!-- /.nav-grid__content -->
+												</a><!-- /.nav-grid__item -->
+											</div><!-- /.col -->
+											{% endfor %}
+									</div><!-- /.row -->
+								{% endfor %}
 							</div><!-- /.nav-grid -->
 						</div><!-- /.col -->
 					</div><!-- /.row -->

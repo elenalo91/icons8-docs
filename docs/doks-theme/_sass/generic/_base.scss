@@ -156,7 +156,7 @@ hr {
 	border: 0;
 	border-top: 1px solid $color-horizontal-rule;
 	margin-block-start: 1em;
-	margin-block-end: 1em;
+	margin-block-end: 1em; 
 }
 
 /* ----- States ----- */
@@ -191,6 +191,7 @@ ul {
 		margin-bottom: .3125rem;
 		font-size: 14px;
 		line-height: 24px;
+		list-style-type: none;
 		@media (min-width: $screen-sm-min){
 			font-size: 16px;
 		}

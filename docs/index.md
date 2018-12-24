@@ -4,8 +4,8 @@ layout: homepage
 keywords:
 
 # Hero section
-title: Lunacy Documentation
-description: Welcome to the official help for Lunacy, Sketch for Windows.
+title: Icons8 Documentation
+description: Welcome to the official icon8 documentation. You don't have to wait for the support's answer anymore!
 buttons:
     - content: VIEW ON GITHUB
       url: 'https://github.com/icons8/lunacy-docs'
@@ -13,46 +13,36 @@ buttons:
 
 # Grid navigation
 grid_navigation:
-    - title: About Lunacy
-      excerpt: Basic information about Lunacy
-      url: '/about'
-      icon: 'lunacy'
-    - title: Interface
-      excerpt: Learn about interface layout and navigation tools
-      url: '/interface'
-      icon: 'toggle-off'
-    - title: 'Editing'
-      excerpt: Learn about tools that will help you create shapes you want 
-      url: '/editing'
-      icon: 'pencil-tip'
-    - title: 'Objects'
-      excerpt: Learn about shapes that Lunacy provides
-      url: '/objects'
-      icon: 'ungroup-objects'
-    - title: 'Styling'
-      excerpt: Learn about tools that will help you create your unique style
-      url: '/styling'
-      icon: 'design'
-    - title: 'Export'
-      excerpt: Learn about publishing capabilities and export formats of Lunacy
-      url: '/export'
-      icon: 'folder-invoices'
-    - title: 'Shortcuts'
-      excerpt: Make your workflow faster by learning Lunacy's shortcuts
-      url: '/shortcuts'
-      icon: 'keyboard'
-    - title: 'Localization'
-      excerpt: Help us improve the translation of Lunacy 
-      url: '/localization'
-      icon: 'translation'
-    - title: 'Support'
-      excerpt: 'FAQ and our contacts'
-      url: '/support'
-      icon: 'technical-support'
-    - title: 'Release History'
-      excerpt: 'New features and fixes for each version of Lunacy'
-      url: '/release-notes'
-      icon: 'activity-history'
+    - section: Test
+      section-description: Test Section
+      cards:
+      - title: About Lunacy
+        excerpt: Basic information about Lunacy
+        url: '/about'
+        icon: 'lunacy'
+      - title: Interface
+        excerpt: Learn about interface layout and navigation tools
+        url: '/interface'
+        icon: 'toggle-off'
+      - title: 'Editing'
+        excerpt: Learn about tools that will help you create shapes you want 
+        url: '/editing'
+        icon: 'pencil-tip'
+    - section: Test 2
+      section-description: Test Section 2
+      cards:
+      - title: 'Objects'
+        excerpt: Learn about shapes that Lunacy provides
+        url: '/objects'
+        icon: 'ungroup-objects'
+      - title: 'Styling'
+        excerpt: Learn about tools that will help you create your unique style
+        url: '/styling'
+        icon: 'design'
+      - title: 'Export'
+        excerpt: Learn about publishing capabilities and export formats of Lunacy
+        url: '/export'
+        icon: 'folder-invoices'
 ---
 
 # Welcome to icons user manual

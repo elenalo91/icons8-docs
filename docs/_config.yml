@@ -8,13 +8,8 @@ doks:
         nav:
             - item_name: Documentation
               item_url: /
-            - item_name: Request Features
-              item_url: https://lunatics.icons8.com/
-              external_url: true
-            - item_name: Release Notes
-              item_url: /release-notes/
             - item_name: Forum
-              item_url: https://community.icons8.com/c/lunacy/
+              item_url: https://community.icons8.com/c/icons
               external_url: true
             
 

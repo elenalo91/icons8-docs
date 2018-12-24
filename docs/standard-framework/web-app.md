@@ -394,7 +394,7 @@ In case you have any question, issue or concern, no matter are you a paying or a
   <img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/tech_support_2.png'>
 </p>
   
-  </details>
-  </li> 
-  <hr>
-  </ul>
+</details>
+<hr>
+</li> 
+</ul>

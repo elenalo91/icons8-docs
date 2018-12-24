@@ -16,48 +16,44 @@ grid_navigation:
     - section: Standard Framework
       section-description: 'Under the Standard Framework we consider a set of tools that allows our clients to manually search and retreive icons through a GUI.   This manual covers the icons web app in detail:'
       cards:
-      - title: About Lunacy
-        excerpt: Basic information about Lunacy
+      - title: Web App
+        excerpt: Grasp of the main icons web app's features
         url: '/about'
         icon: 'lunacy'
-      - title: Interface
-        excerpt: Learn about interface layout and navigation tools
+      - title: Licensing
+        excerpt: Learn how NOT to get sued by icons8
         url: '/interface'
         icon: 'toggle-off'
-      - title: 'Editing'
-        excerpt: Learn about tools that will help you create shapes you want 
-        url: '/editing'
-        icon: 'pencil-tip'
     - section: Service Integration Framework
       section-description: 'In a short, service integration gives you an ability to access icons programmatically, from within your apps, on the fly in real-time. In particular end-users of your products could generate their own projects, build their own visual content from within your apps tied to our service. The framework consist of search engine that allows to programmatically search for icons metadata and icons retrieval service which utilizes that metadata to actually retrieve icons in various formats, styles, colours, sizes etc. Click on the collapsable items below to read more about each of the topics:'
       cards:
-      - title: 'Objects'
-        excerpt: Learn about shapes that Lunacy provides
+      - title: 'Search Engine'
+        excerpt: Learn about our searching api capabilities
         url: '/objects'
         icon: 'ungroup-objects'
-      - title: 'Styling'
-        excerpt: Learn about tools that will help you create your unique style
+      - title: 'Retrieval Engine (Omg-Img)'
+        excerpt: Learn about a fancier way of retrieving icons
         url: '/styling'
         icon: 'design'
-      - title: 'Export'
-        excerpt: Learn about publishing capabilities and export formats of Lunacy
+      - title: 'Licensing'
+        excerpt: Learn how NOT to get sued by icons8
+        url: '/export'
+        icon: 'folder-invoices'
+      - title: 'Use Cases'
+        excerpt: Check the big guys who use our api
         url: '/export'
         icon: 'folder-invoices'
     - section: FAQ
-      section-description: 
+      section-description: 'Questions that may will appear in your head:'
       cards:
-      - title: 'Objects'
-        excerpt: Learn about shapes that Lunacy provides
+      - title: 'Service Integration'
+        excerpt:
         url: '/objects'
         icon: 'ungroup-objects'
-      - title: 'Styling'
-        excerpt: Learn about tools that will help you create your unique style
+      - title: 'Web App'
+        excerpt:
         url: '/styling'
         icon: 'design'
-      - title: 'Export'
-        excerpt: Learn about publishing capabilities and export formats of Lunacy
-        url: '/export'
-        icon: 'folder-invoices'
 
 ---
 

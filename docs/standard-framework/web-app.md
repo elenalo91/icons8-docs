@@ -1,7 +1,4 @@
-  <details>
-  <summary>
-   <strong>Web App</strong>
-  </summary>
+  ## Web App
  
  [Icons web app](https://icons8.com/icons) is availale on any modern web browser and can be accessed via the URL: https://icons8.com/icons. The subsections below grasp the main features of the web app:
    
@@ -450,4 +447,3 @@ Below is the list of suggested places where you may set up a link:
    </li>
    <hr>
  </ul>
- </details> 

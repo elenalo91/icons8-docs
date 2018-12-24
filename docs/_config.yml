@@ -1,5 +1,5 @@
 doks:
-    baseurl:
+    baseurl: /icons8-docs
     color_theme: blue
     header:
         logo:

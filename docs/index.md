@@ -5,7 +5,7 @@ keywords:
 
 # Hero section
 title: Icons8 Documentation
-description: Welcome to the official icon8 documentation. You don't have to wait for the support's answer anymore!
+description: This document covers pretty much everything you need to know about how to get started and succeed with icons app and services.
 buttons:
     - content: VIEW ON GITHUB
       url: 'https://github.com/icons8/lunacy-docs'
@@ -13,8 +13,8 @@ buttons:
 
 # Grid navigation
 grid_navigation:
-    - section: Test
-      section-description: Test Section
+    - section: Standard Framework
+      section-description: 'Under the Standard Framework we consider a set of tools that allows our clients to manually search and retreive icons through a GUI.   This manual covers the icons web app in detail:'
       cards:
       - title: About Lunacy
         excerpt: Basic information about Lunacy
@@ -28,8 +28,8 @@ grid_navigation:
         excerpt: Learn about tools that will help you create shapes you want 
         url: '/editing'
         icon: 'pencil-tip'
-    - section: Test 2
-      section-description: Test Section 2
+    - section: Service Integration Framework
+      section-description: 'In a short, service integration gives you an ability to access icons programmatically, from within your apps, on the fly in real-time. In particular end-users of your products could generate their own projects, build their own visual content from within your apps tied to our service. The framework consist of search engine that allows to programmatically search for icons metadata and icons retrieval service which utilizes that metadata to actually retrieve icons in various formats, styles, colours, sizes etc. Click on the collapsable items below to read more about each of the topics:'
       cards:
       - title: 'Objects'
         excerpt: Learn about shapes that Lunacy provides
@@ -43,6 +43,22 @@ grid_navigation:
         excerpt: Learn about publishing capabilities and export formats of Lunacy
         url: '/export'
         icon: 'folder-invoices'
+    - section: FAQ
+      section-description: 
+      cards:
+      - title: 'Objects'
+        excerpt: Learn about shapes that Lunacy provides
+        url: '/objects'
+        icon: 'ungroup-objects'
+      - title: 'Styling'
+        excerpt: Learn about tools that will help you create your unique style
+        url: '/styling'
+        icon: 'design'
+      - title: 'Export'
+        excerpt: Learn about publishing capabilities and export formats of Lunacy
+        url: '/export'
+        icon: 'folder-invoices'
+
 ---
 
 # Welcome to icons user manual

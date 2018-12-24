@@ -22,7 +22,7 @@ grid_navigation:
         icon: 'lunacy'
       - title: Licensing
         excerpt: Learn how NOT to get sued by icons8
-        url: '/interface'
+        url: '/standard-framework/licensing'
         icon: 'toggle-off'
     - section: Service Integration Framework
       section-description: 'In a short, service integration gives you an ability to access icons programmatically, from within your apps, on the fly in real-time. In particular end-users of your products could generate their own projects, build their own visual content from within your apps tied to our service. The framework consist of search engine that allows to programmatically search for icons metadata and icons retrieval service which utilizes that metadata to actually retrieve icons in various formats, styles, colours, sizes etc. Click on the collapsable items below to read more about each of the topics:'

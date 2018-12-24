@@ -21,16 +21,9 @@ page_nav:
 
 
 [Icons web app](https://icons8.com/icons) is availale on any modern web browser and can be accessed via the URL: https://icons8.com/icons. The subsections below grasp the main features of the web app:
-  
-<ul>
-  <hr>
-  <li>
-  <details>
-    <summary>
-      <strong> Searching  </strong>
-    </summary>
-  
-  <br>
+
+## Searching 
+<br>
 Searching is accomplished by entering a search query in the search bar as demonstrated below and pressing enter key / search button. The most relevant icons set shows up. While entering search queries, you may quickly vary icons styles, by selecting a style from the drop down menu. You have an option to view plain icons only as well as icons with titles just by toggling an approprite switch button on the top right of the screen:
 <p align="center">
 <img src='https://muraragi.github.io/icons8-docs/public/icons/search_with_query_3.png'>
@@ -61,21 +54,13 @@ Editor tool comes up whenever an icon is clicked:
 
 Icons editing tools and other tools for manipulation with icons are described in the following subsections.
 
-  </details>
-  
-  </li>
-  <hr>
-  <li>
-  <details>
-    <summary>
-      <strong> Editing / Formatting </strong>
-    </summary>
+## Editing / Formatting
 
-  <br>
-  Editing and formatting tools show up whenever an icon from the list is clicked (see previous subsection on how to retrieve a list of icons you need):
+<br>
+Editing and formatting tools show up whenever an icon from the list is clicked (see previous subsection on how to retrieve a list of icons you need):
   
 <p align="center">
-  <img   src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/editor_main_2.png'>
+  <img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/editor_main_2.png'>
 </p>
 
 <br>
@@ -169,17 +154,10 @@ Same as with circle, the square effect has functionality to <b> fill its interio
   <img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/square_effect_edit_fill_overlay.png'>
 </p>
 
+## Collections
 
-  </details>
-  </li>
-  <hr>
-  <li>
-  <details>
-    <summary>
-      <strong> Collections </strong>
-    </summary>
-    
 <br>
+
 Collections is the best way to orgonize the icons you like into certain groups for further applications. You may create multiple collections with the 1000 icons limit per collection. Icons can be added into a collection just by dragging and dropping it or just by pressing on a special label in the upper right corner of the outer space surrounding each icon when mouse cursor is over the icon. This is demonstrated on the screenshot below. Notice that red labels indicate that current icon is already added into your collection. 
 
 <p align="center">
@@ -225,20 +203,11 @@ Another way to delete the entire collection or change its title is to click on t
 
 <br>
 
+## Downloading
 
+<br>
 
-
-  </details>
-  </li>
-  <hr>
-  <li>
-  <details>
-    <summary>
-      <strong> Downloading </strong>
-    </summary>
-    
-  <br>
-  Icon downloading feature is available from the main icon editor pane which in turn come up whenever an icon is clicked. When the download button is clicked the following screen shows up:
+Icon downloading feature is available from the main icon editor pane which in turn come up whenever an icon is clicked. When the download button is clicked the following screen shows up:
   
 <p align="center">
   <img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/download_multiple_edit_2.png'>
@@ -262,7 +231,7 @@ There is an option to download selected icon in multiple sizes at once as a zip 
 </p> 
 
 <br>
-  In order to download a collection you have to select the collection in the list of collections and click on download button.  From the download screen you have several output options for your collection. These output options are:
+In order to download a collection you have to select the collection in the list of collections and click on download button.  From the download screen you have several output options for your collection. These output options are:
 
 - PNG - download collection as a set of <b>png</b> icons
 - FONT - generate <b>font</b> from the collection and download it
@@ -279,17 +248,10 @@ There is an option to download selected icon in multiple sizes at once as a zip 
 
 <br>
 
-  </details>
-  </li>
-  <hr>
+## HTML png / svg options
 
-  <li>
-  <details>
-    <summary>
-      <strong> HTML png / svg options </strong>
-    </summary>
+<br>
 
-<br>  
 As an alternative to icons download we offer quite a few options to get the icons right into you app of any scale via <b>html</b>. Just press the <b>HTML</b> button from the editor screen and a screen with HTML options will come up:
     
 <br> 
@@ -327,18 +289,9 @@ Html svg <b>background</b> option:
   <img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/html_background_2.png'>
 </p>
 
-
+## Multilanguage support
   
-  </details>
-  </li>
-  <hr>
-  <li>
-  <details>
-    <summary>
-      <strong> Multilanguage support</strong>
-    </summary>
-
-  <br>
+<br>
   
 We support the following languages:
 
@@ -359,15 +312,7 @@ Click on the flag icon and choose the language you prefer:
   <img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/internalization_1.png'>
 </p>
 
-  
-  </details>
-  </li>
-  <hr>
-  <li>
-  <details>
-    <summary>
-      <strong> Login / Logout </strong>
-    </summary> 
+## Login / Logout
     
 <br>
 
@@ -376,15 +321,8 @@ Once you've got an Icons8 account, you’ll be able to login into any of our pro
 <p align="center">
   <img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/login_logout_2.png'>
 </p>
-  
-  </details>
-  </li>
-  <hr>
-  <li>
-  <details>
-    <summary>
-      <strong> Technical Support </strong>
-    </summary>
+
+## Technical Support
 
 <br>
 
@@ -393,8 +331,3 @@ In case you have any question, issue or concern, no matter are you a paying or a
 <p align="center">
   <img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/tech_support_2.png'>
 </p>
-  
-</details>
-</li> 
-<hr>
-</ul>

@@ -199,13 +199,6 @@ ul {
 			font-size: 18px;
 			line-height: 32px;
 		}
-
-		&:before {
-			content: '\2022';
-			color: $color-list-prefix;
-			position: absolute;
-			left: 10px;
-		}
 	}
 }
 

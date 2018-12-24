@@ -76,5 +76,5 @@ Below is the list of suggested places where you may set up a link:
 
 
   </li>
-  <hr>
 </ul>
+<hr>

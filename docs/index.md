@@ -47,11 +47,11 @@ grid_navigation:
       section-description: 'Questions that may will appear in your head:'
       cards:
       - title: 'Service Integration'
-        excerpt:
+        excerpt: Tricky service integration questions
         url: '/objects'
         icon: 'ungroup-objects'
       - title: 'Web App'
-        excerpt:
+        excerpt: Tricky web app questions
         url: '/styling'
         icon: 'design'
 

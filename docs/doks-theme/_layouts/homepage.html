@@ -76,7 +76,7 @@
 								{% for item in page.grid_navigation %}
 									<div class="row">
 											<div class="grid-section-description">
-												<h2>{{ item.section }}</h2>
+												<h2 id="{{ item.section }}">{{ item.section }}</h2>
 												<p class="section-description">{{ item.section-description }}</p>
 											</div>
 											{% for card in item.cards %}

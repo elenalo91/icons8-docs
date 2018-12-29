@@ -4,7 +4,7 @@ layout: homepage
 keywords:
 
 # Hero section
-title: Icons8 Documentation
+title: Welcome to Icons User Manual
 description: This document covers pretty much everything you need to know about how to get started and succeed with icons app and services.
 buttons:
     - content: VIEW ON GITHUB

@@ -75,7 +75,9 @@
 			<div class="anchors">
 				{% for item in page.grid_navigation %}
 					<a class="anchor" href="#{{ item.section }}">
-						<div class="anchor-icon"></div>
+						<div class="anchor-icon">
+							<img src="https://png.icons8.com/windows/392/24282A/{{ item.icon }}.png" style="width: 100%;">
+						</div>
 						{{ item.section }}
 					</a>
 				{% endfor %}

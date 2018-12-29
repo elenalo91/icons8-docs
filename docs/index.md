@@ -24,6 +24,8 @@ grid_navigation:
         excerpt: Learn how NOT to get sued by icons8
         url: '/web-app/licensing'
         icon: 'diploma'
+    - section: Desktop Apps
+      section-description: [Desktop Apps](https://icons8.com/app) are Windows and Mac icons apps. The main idea behind the desktop apps is to provide offline access to our icons. Download it once and use it offline side by side with design tools of your choice. Ease of search and ease of use! Drag and drop icons from the app right into your design. It is that simple and effective! Take your dev process to the next level with our desktop apps!
     - section: Icons API
       # section-description: 'In a short, service integration gives you an ability to access icons programmatically, from within your apps, on the fly in real-time. In particular end-users of your products could generate their own projects, build their own visual content from within your apps tied to our service. The framework consist of search engine that allows to programmatically search for icons metadata and icons retrieval service which utilizes that metadata to actually retrieve icons in various formats, styles, colours, sizes etc. Click on the collapsable items below to read more about each of the topics:'
       cards:

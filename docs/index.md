@@ -50,8 +50,8 @@ grid_navigation:
         icon: 'hand-cursor'
     - section: FAQ
       # section-description: 'Questions that may will appear in your head:'
-      cards:
       icon: 'question-mark'
+      cards:
       - title: 'Icons Apps'
         excerpt: Tricky web app questions
         url: '/objects'

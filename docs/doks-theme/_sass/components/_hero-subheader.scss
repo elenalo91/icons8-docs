@@ -41,6 +41,24 @@
 	}
 }
 
+.anchors {
+	width: 100%;
+	max-width: 1224px;
+	margin: 0 auto;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+	.anchor {
+		display: flex;
+		flex-direction: column;
+		.anchor-icon {
+			width: 192px;
+			background: #c4c4c4;
+			border-radius: 100%;
+		}
+	}
+}
+
 /* ----- Title ----- */
 .hero-subheader__title {
 	margin-top: 0;

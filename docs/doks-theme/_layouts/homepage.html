@@ -72,6 +72,14 @@
 				<h2>Which License Do I Need?</h2>
 				<p><a href="https://icons8.com/icons">Icons apps</a> allow to search and retrieve icons manually through a GUI. The apps have their great pros and clear cons. They suit perfect for certain tasks confined with the scope. The other route is to use icons API. Icons API provides an ability to access icons from your code. It drastically changes the game. Now, your end-users can build their visual content from within your apps powered by our API.</p>
 			</div>
+			<div class="anchors">
+				{% for item in page.grid_navigation %}
+					<a class="anchor" href="#{{ item.section }}">
+						<div class="anchor-icon"></div>
+						{{ item.section }}
+					</a>
+				{% endfor %}
+			</div>
 		</div><!-- /.hero-subheader -->
 		{% if page.grid_navigation %}
 			<div class="section section--darker-theme-color-bg" id="grid-wrapper">

@@ -16,5 +16,5 @@ micro_nav: false
 page_nav:
   prev:
       content: Web App
-      url: '/standard-framework/web-app'
+      url: '/web-app/'
 ---

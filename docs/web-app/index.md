@@ -16,7 +16,7 @@ micro_nav: false
 page_nav:
   next:
       content: Licensing
-      url: '/standard-framework/licensing'
+      url: '/web-app/licensing'
 ---
 
 

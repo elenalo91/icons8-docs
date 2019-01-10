@@ -20,7 +20,6 @@ page_nav:
 ---
   
  <ul>
-  <hr>
    <li>
    <details>
      <summary>
@@ -30,7 +29,6 @@ page_nav:
 <p><a href="https://icons8.com/paid-license-99/#/" rel="nofollow">Monthly subscription would cost you 19.95$ and annual just 199.90$</a>.</p>
    </details>
    </li>
-    <hr>
    <li>
    <details>
      <summary>
@@ -65,5 +63,4 @@ love to have a copy of the game, thank you :-)</li>
 </ul>
 </details>
    </details></li>
-   <hr>
  </ul>

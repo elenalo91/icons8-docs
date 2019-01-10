@@ -23,7 +23,7 @@ page_nav:
    <li>
    <details>
      <summary>
-       <strong> Paid Option  </strong>
+        <h2>Paid Option</h2>
      </summary>
 <p>Paying customers are eligible to download icons in PNG, SVG, EPS, and PDF file formats in any size up to 2048 pixels. Licensing is available in the form of subscriptions. Monthly and annual subscriptions are available. In case of monthly subscription, your account is charged once per month. In case of annual subscription, your account is charged once a year. You may cancel your subscription at any time. All materials downloaded while you are on subscription <b>stay yours for good</b>. You may continue to use them in current or future commercial projects. Few restrictions are applied. Please read more about <a href="https://icons8.com/download/Icons8_License.pdf" rel="nofollow">permitted and prohibited uses</a>.</p>
 <p><a href="https://icons8.com/paid-license-99/#/" rel="nofollow">Monthly subscription would cost you 19.95$ and annual just 199.90$</a>.</p>
@@ -32,7 +32,7 @@ page_nav:
    <li>
    <details>
      <summary>
-       <strong> Free of Charge Option </strong>
+       <h2> Free of Charge Option </h2>
      </summary>
 <p>You are welcome to use icons apps for free for personal or commercial use. In this case, you have to reference us somewhere in an appropriate place of your product. In most cases, it is enough to place a web link pointed to our website's main page. A better option would be to place a link pointed directly to the icon you decided to use. Please note that the free icons can only be downloaded in PNG up to 100x100px. The <a href="https://icons8.com/icon/pack/free-icons/all" rel="nofollow">Popular Icons</a> and <a href="https://icons8.com/icon/pack/Logos/all" rel="nofollow">Logos</a> are free in all formats, including SVG.</p>
  <details>

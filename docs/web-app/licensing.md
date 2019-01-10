@@ -19,14 +19,14 @@ page_nav:
       url: '/web-app/'
 ---
 
-<details>
+<details markdown="1">
   <summary>
    <strong>Licensing</strong>
   </summary>
  
   <!-- Paid and free of charge options are available to our clients. -->
  
- <ul>
+ <ul markdown="1">
   <hr>
    <li>
    <details>

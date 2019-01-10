@@ -34,7 +34,7 @@ grid_navigation:
       cards:
       - title: 'Search Engine'
         excerpt: Learn about our searching api capabilities
-        url: '/objects'
+        url: '/api/search-engine'
         icon: 'search-more'
       - title: 'Retrieval Engine'
         excerpt: Learn about a fancier way of retrieving icons

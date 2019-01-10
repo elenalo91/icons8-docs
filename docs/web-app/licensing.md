@@ -18,11 +18,6 @@ page_nav:
       content: Web App
       url: '/web-app/'
 ---
-
-<details>
-  <summary>
-   <strong>Licensing</strong>
-  </summary>
   
  <ul>
   <hr>
@@ -72,4 +67,3 @@ love to have a copy of the game, thank you :-)</li>
    </details></li>
    <hr>
  </ul>
- </details>

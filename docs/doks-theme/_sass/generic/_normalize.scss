@@ -419,9 +419,7 @@ menu {
 summary {
   display: list-item;
   &::-webkit-details-marker {
-    background: red;
-    color: #fff;
-    font-size: 500%;
+    font-size: 300%;
   }
 }
 

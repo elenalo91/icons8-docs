@@ -22,7 +22,7 @@ page_nav:
     <li>
    <details>
      <summary>
-       <strong> How it Works? </strong>
+       <h2> How it Works? </h2>
      </summary> 
 <p>The engine is a dedicated service. It accepts search queries and returns responses. A response is a JSON containing metadata items for the most relevant icons. The metadata attributes helps you further to filter, group and retrieve icons. This section explains the searching parameters used for the service. You embed these parameters one after another in your query. The order of the parameters can be changed on your own:</p>
    </details>
@@ -30,7 +30,7 @@ page_nav:
    <li>
    <details>
      <summary>
-       <strong> API Key / Token </strong>
+       <h2> API Key / Token </h2>
      </summary>
 <p>Personal <b>API key</b> or <b>token</b> is a shortcode in text format. This token grants you permission to send requests to searching and retrieval engines. After we receive a payment from a client, we issue an API key. You may proceed with the payment on <a href="https://icons8.recurly.com/subscribe/api_access" rel="nofollow">this page</a>.</p>
    </details>
@@ -38,7 +38,7 @@ page_nav:
     <li>
    <details>
      <summary>
-       <strong> Endpoint </strong>
+       <h2> Endpoint </h2>
      </summary>
 <p>The endpoint is the URL where our service can be accessed by a client application. The v4 search engine endpoint is: <a href="https://api.icons8.com/api/iconsets/v4/search" rel="nofollow">https://api.icons8.com/api/iconsets/v4/search</a></p>
    </details>
@@ -46,7 +46,7 @@ page_nav:
    <li>
    <details>
      <summary>
-       <strong> Platform  </strong>
+       <h2> Platform  </h2>
      </summary>
 <p>There is a set of parameters or attributes with a name  <code>platform</code> or a <code>platform_api_code</code> or a <code>platform_code.</code>  All these names mean the same thing, the style of the icons.</p>
  <p align="center">
@@ -174,7 +174,7 @@ page_nav:
    <li>
    <details>
      <summary>
-       <strong> Language  </strong>
+       <h2> Language  </h2>
      </summary>
 <p>Icon names, categories, and tags are localized. Here's the list of supported languages:</p>
  <p align="center">
@@ -235,7 +235,7 @@ page_nav:
    <li>
    <details>
      <summary>
-       <strong> Amount  </strong>
+       <h2> Amount  </h2>
      </summary>
 <p>This field is the largest number of icons which you'd like to receive. The default value is 25.</p>
    </details>
@@ -243,7 +243,7 @@ page_nav:
    <li>
    <details>
      <summary>
-       <strong>  Offset  </strong>
+       <h2>  Offset  </h2>
      </summary>
 <p>This field is the offset from the first received result. The default value is 0.</p>
    </details>
@@ -251,7 +251,7 @@ page_nav:
    <li>
    <details>
      <summary>
-       <strong> Sample Request </strong>
+       <h2> Sample Request </h2>
      </summary>
 <p><a href="https://api.icons8.com/api/iconsets/v4/search?term=home&amp;amount=50&amp;offset=0&amp;platform=all&amp;language=en-US&amp;token=al05i21yfatb4s5eac20c4wr4394b1z2" rel="nofollow">https://api.icons8.com/api/iconsets/v4/search?term=home&amp;amount=50&amp;offset=0&amp;platform=all&amp;language=en-US&amp;token=al05i21yfatb4s5eac20c4wr4394b1z2</a>.</p>
 <ul>
@@ -268,7 +268,7 @@ page_nav:
    <li>
    <details>
      <summary>
-       <strong> Sample Response </strong>
+       <h2> Sample Response </h2>
      </summary>
  <p align="center">
 </p><table>

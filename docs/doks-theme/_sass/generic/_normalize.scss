@@ -406,6 +406,9 @@ textarea {
 details, /* 1 */
 menu {
   display: block;
+  h2 {
+    display: inline-block;
+  }
 }
 
 /*

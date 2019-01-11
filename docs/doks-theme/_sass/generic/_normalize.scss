@@ -410,6 +410,9 @@ menu {
     display: inline-block;
     padding: 0;
   }
+  &:focus {
+    border: none;
+  }
 }
 
 /*

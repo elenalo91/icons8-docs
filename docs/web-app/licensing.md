@@ -21,9 +21,9 @@ page_nav:
   
  <ul>
    <li>
+   <h2>Paid Option</h2>
    <details>
      <summary>
-        <h2>Paid Option</h2>
      </summary>
 <p>Paying customers are eligible to download icons in PNG, SVG, EPS, and PDF file formats in any size up to 2048 pixels. Licensing is available in the form of subscriptions. Monthly and annual subscriptions are available. In case of monthly subscription, your account is charged once per month. In case of annual subscription, your account is charged once a year. You may cancel your subscription at any time. All materials downloaded while you are on subscription <b>stay yours for good</b>. You may continue to use them in current or future commercial projects. Few restrictions are applied. Please read more about <a href="https://icons8.com/download/Icons8_License.pdf" rel="nofollow">permitted and prohibited uses</a>.</p>
 <p><a href="https://icons8.com/paid-license-99/#/" rel="nofollow">Monthly subscription would cost you 19.95$ and annual just 199.90$</a>.</p>

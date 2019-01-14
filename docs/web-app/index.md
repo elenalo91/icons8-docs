@@ -5,9 +5,9 @@ keywords:
 comments: false
 
 # Hero section
-title: Web App
+title: Features
 description: Grasp of the main icons web app's features
-icon: 'lunacy'
+icon: 'confectionery'
 
 # Micro navigation
 micro_nav: false

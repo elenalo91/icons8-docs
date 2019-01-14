@@ -20,7 +20,7 @@ page_nav:
 ---
 
 <ul>
- <hr>
+
  <li>
  <details>
   <summary>
@@ -35,7 +35,7 @@ page_nav:
 </ul>
  </details>
  </li>
- <hr>
+
  <li>
  <details>
   <summary>
@@ -62,7 +62,7 @@ page_nav:
 <p>Note that the 'name' parameter is not used at all in building a retrieving URL for the icon.</p>
  </details>
  </li>
- <hr>
+
  <li>
  <details>
   <summary>
@@ -81,7 +81,7 @@ page_nav:
 </ul>
  </details>
  </li>
- <hr>
+
  <li>
  <details>
   <summary>
@@ -96,7 +96,7 @@ page_nav:
 </ul>
  </details>
  </li>
- <hr>
+
  <li>
  <details>
   <summary>
@@ -119,7 +119,6 @@ Then click on the icon you'd like to use. When the editor shows up click on the 
  </p>
  </details>
 </li>
-<hr>
  <li>
  <details>
   <summary>
@@ -277,7 +276,6 @@ Then click on the icon you'd like to use. When the editor shows up click on the 
 </details>
  </details>
 </li>
-<hr>
  <li>
  <details>
   <summary>
@@ -291,7 +289,6 @@ Then click on the icon you'd like to use. When the editor shows up click on the 
 </ul>
  </details>
 </li>
-<hr>
 <li>
  <details>
   <summary>
@@ -307,7 +304,6 @@ Then click on the icon you'd like to use. When the editor shows up click on the 
 <p>Icon's size can be written in two different formats: <code>100x100</code> or <code>100px</code>.</p>
  </details>
 </li>
-<hr>
 <li>
  <details>
   <summary>
@@ -329,7 +325,6 @@ Then click on the icon you'd like to use. When the editor shows up click on the 
 </ul>
  </details>
 </li>
-<hr>
 <li>
  <details>
   <summary>
@@ -338,7 +333,6 @@ Then click on the icon you'd like to use. When the editor shows up click on the 
 <p>The restriction applied to free png icons is 550 px. Paying clients may retrieve icons in any size up to 2048 px.</p>
  </details>
 </li>
-<hr>
 <li>
  <details>
   <summary>
@@ -348,7 +342,6 @@ Then click on the icon you'd like to use. When the editor shows up click on the 
 <p>Alternatively, there is a paid fast option too, <a href="https://icons8.com/request-icon/custom/" rel="nofollow">$50 per icon, up to 20 icons a day</a>.</p>
  </details>
 </li>
-<hr>
 <li>
  <details>
   <summary>
@@ -372,7 +365,6 @@ Then click on the icon you'd like to use. When the editor shows up click on the 
  </details>
 </li>
 
-<hr>
 <li>
  <details>
   <summary>
@@ -387,6 +379,5 @@ Then click on the icon you'd like to use. When the editor shows up click on the 
 </ul>
  </details>
 </li>
-<hr>
  
 </ul>

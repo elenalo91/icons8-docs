@@ -38,7 +38,7 @@ grid_navigation:
         icon: 'search-more'
       - title: 'Retrieval Engine'
         excerpt: Learn about a fancier way of retrieving icons
-        url: '/styling'
+        url: '/retrieval-engine'
         icon: 'search-folder'
       - title: 'Licensing'
         excerpt: Learn how NOT to get sued by icons8

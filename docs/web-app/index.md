@@ -20,7 +20,6 @@ page_nav:
 ---
 
 <ul>
-    <hr>
    <li>
    <details>
      <summary>
@@ -49,7 +48,6 @@ page_nav:
 
    </details>
    </li>
-    <hr>
    <li>
     <details>
      <summary>
@@ -131,7 +129,6 @@ A group of styles options is displayed within the editor pane. They are the styl
  </p>
    </details>
    </li>
-    <hr>
     <li>
    <details>
      <summary>
@@ -175,7 +172,6 @@ A group of styles options is displayed within the editor pane. They are the styl
   <br>
    </details>
    </li>
-   <hr>
    <li>
    <details>
      <summary>
@@ -217,7 +213,6 @@ A group of styles options is displayed within the editor pane. They are the styl
 <br>
    </details>
    </li>
-   <hr>
    <li>
     <details>
      <summary>
@@ -255,7 +250,6 @@ A window with HTML options will come up. With the first option it takes just a l
  </p>
    </details>
    </li>
-   <hr>
    <li>
     <details>
      <summary>
@@ -281,7 +275,6 @@ Click on the "country flag" button and choose the language you prefer:
  </p>
    </details>
    </li>
-   <hr>
    <li>
     <details>
      <summary>
@@ -294,7 +287,6 @@ Click on the "country flag" button and choose the language you prefer:
  </p>
    </details>
    </li>
-   <hr>
    <li>
     <details>
      <summary>

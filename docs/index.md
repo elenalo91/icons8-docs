@@ -42,7 +42,7 @@ grid_navigation:
         icon: 'search-folder'
       - title: 'Licensing'
         excerpt: Learn how NOT to get sued by icons8
-        url: '/export'
+        url: '/api/licensing'
         icon: 'agreement'
       - title: 'Use Cases'
         excerpt: Check the big guys who use our api

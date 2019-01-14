@@ -46,7 +46,7 @@ grid_navigation:
         icon: 'agreement'
       - title: 'Use Cases'
         excerpt: Check the big guys who use our api
-        url: '/export'
+        url: '/api/use-cases'
         icon: 'hand-cursor'
     - section: FAQ
       # section-description: 'Questions that may will appear in your head:'

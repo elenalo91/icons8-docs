@@ -58,6 +58,6 @@ grid_navigation:
         icon: 'ungroup-objects'
       - title: 'Icons API'
         excerpt: Tricky service integration questions 
-        url: '/styling'
+        url: '/faq/icons-api'
         icon: 'design'
 ---

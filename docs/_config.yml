@@ -9,7 +9,7 @@ doks:
             - item_name: Documentation
               item_url: /
             - item_name: Forum
-              item_url: https://community.icons8.com/c/icons
+              item_url: https://community.icons8.com
               external_url: true
             
 

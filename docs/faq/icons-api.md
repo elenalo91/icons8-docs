@@ -15,8 +15,8 @@ micro_nav: false
 # Page navigation
 page_nav:
   prev:
-      content: Web App
-      url: '/web-app/'
+      content: Icons Apps
+      url: '/faq/icons-apps'
 ---
 
 <ul>

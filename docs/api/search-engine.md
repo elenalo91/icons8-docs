@@ -14,9 +14,9 @@ micro_nav: false
 
 # Page navigation
 page_nav:
-  prev:
-      content: Web App
-      url: '/web-app/'
+  next:
+      content: Retrieval Engine
+      url: '/api/retrieval-engine'
 ---
 <ul>
     <li>

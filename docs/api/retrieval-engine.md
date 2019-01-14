@@ -15,8 +15,11 @@ micro_nav: false
 # Page navigation
 page_nav:
   prev:
-      content: Web App
-      url: '/web-app/'
+      content: Search Engine
+      url: '/api/search-engine'
+  next:
+      content: Licensing
+      url: '/api/licensing'
 ---
 
 <ul>

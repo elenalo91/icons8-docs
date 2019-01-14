@@ -54,7 +54,7 @@ grid_navigation:
       cards:
       - title: 'Icons Apps'
         excerpt: Tricky web app questions
-        url: '/objects'
+        url: '/faq/icons-apps'
         icon: 'ungroup-objects'
       - title: 'Icons API'
         excerpt: Tricky service integration questions 

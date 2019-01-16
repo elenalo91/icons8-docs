@@ -35,20 +35,30 @@
 /* ----- Navigation ----- */
 .site-header__logo {
 	@include link-reset;
-	display: none;
+	display: flex;
 	float: left;
 	color: #FFFFFF;
 	font-family: $font-family-secondary;
 	font-weight: bold;
 	font-size: 2em;
 	line-height: 3.8rem;
-	width: 148px;
-	img {
-		vertical-align: middle;
-		max-width: 100%;
-	}
-	@media (min-width: $screen-lg-min){
+	width: 30px;
+	height: 30px;
+	span {
 		display: block;
+	}
+	.rectangle {
+		width: 15px;
+		height: 100%;
+		box-sizing: border-box;
+		border: 2px solid white;
+	}
+	.circle{
+		width: 15px;
+		height: 50%;
+		box-sizing: border-box;
+		border: 2px solid white;
+		border-radius: 100%;
 	}
 }
 

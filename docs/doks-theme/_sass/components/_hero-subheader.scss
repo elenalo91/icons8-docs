@@ -49,6 +49,9 @@
 	margin-top: 64px;
 	flex-wrap: wrap;
 	justify-content: space-between;
+	@media(max-width: $screen-sm-min) {
+		justify-content: center;
+	}
 	.anchor {
 		display: flex;
 		flex-direction: column;
@@ -60,10 +63,6 @@
     padding: 24px;
 		color: #24282a;
 		transition: box-shadow 0.2s, transform 0.2s;
-		@media(max-width: $screen-sm-min) {
-			justify-content: center;
-		}
-		
 		.anchor-icon {
 			width: 192px;
 			height: 192px;

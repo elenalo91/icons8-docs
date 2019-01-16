@@ -77,11 +77,18 @@
 
 .site-header__logo__mobile {
 	display: flex;
-	width: 48px;
+	width: 30px;
+	height: 30px;
 	margin: auto;
 	margin-bottom: 26px;
 	span {
 		display: block;
+	}
+	.rectangle {
+		border: 2px solid #24282A;
+	}
+	.circle {
+		border: 2px solid #24282A;
 	}
 	@media (min-width: $screen-sm-min){
 		display: none;

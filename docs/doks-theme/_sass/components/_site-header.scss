@@ -44,19 +44,20 @@
 	span {
 		display: block;
 	}
-	.rectangle {
-		width: 15px;
-		height: 100%;
-		box-sizing: border-box;
-		border: 2px solid white;
-	}
-	.circle{
-		width: 15px;
-		height: 50%;
-		box-sizing: border-box;
-		border: 2px solid white;
-		border-radius: 100%;
-	}
+}
+
+.rectangle {
+	width: 15px;
+	height: 100%;
+	box-sizing: border-box;
+	border: 2px solid white;
+}
+.circle{
+	width: 15px;
+	height: 50%;
+	box-sizing: border-box;
+	border: 2px solid white;
+	border-radius: 100%;
 }
 
 .site-header__logo__tablet {

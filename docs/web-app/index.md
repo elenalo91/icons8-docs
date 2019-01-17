@@ -297,5 +297,3 @@ Click on the "country flag" button and choose the language you prefer:
  <p align="center">
    <a target="_blank" rel="noopener noreferrer" href="https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/tech_support_2.png"><img src="https://github.com/visualpharm/icons-docs/raw/master/docs/Images/Icons/tech_support_2.png" style="max-width:100%;"></a>
  </p>
-</li>
-</ul>

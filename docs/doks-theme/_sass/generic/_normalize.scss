@@ -410,6 +410,9 @@ menu {
     display: inline-block;
     padding: 0;
     font-size: 32px;
+    @media(max-width: $screen-sm-min) {
+      font-size: 20px;
+    }
   }
 }
 

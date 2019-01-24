@@ -195,7 +195,7 @@ A group of styles options is displayed within the editor pane. They are the styl
 <br>
 <p>Whenever you download a single icon, you add a copy of the icon to the <b>Downloaded</b> collection. The <b>Downloaded</b> collection let you access any of the ever downloaded icons. Use this collection if you need a variation of the icons that you have already downloaded. Jump in the collection, edit the icon, change its size and format and download it again. It is quick and easy!</p>
 <p align="center">
-   <a target="_blank" rel="noopener noreferrer" href="https://github.com/muraragi/icons8-docs/blob/master/docs/public/icons/Downloaded_collection_1.png"><img src="https://github.com/muraragi/icons8-docs/blob/master/docs/public/icons/Downloaded_collection_1.png" style="max-width:100%;"></a>
+   <a target="_blank" rel="noopener noreferrer" href="https://github.com/muraragi/icons8-docs/blob/master/docs/public/icons/Downloaded_collection_1.png"><img src="https://github.com/muraragi/icons8-docs/raw/master/docs/public/icons/Downloaded_collection_1.png" style="max-width:100%;"></a>
 </p>   
 <br>
 <p>The icon download pane displays a pixel-perfect size for the selected icon. You can multiply this platform specific size by various factors like 1x, 2x, 3x and so forth. This way you get sharp PNG icons in multiple sizes. You may choose one of the predefined sizes or specify your custom size.</p>

@@ -4,8 +4,8 @@ layout: homepage
 keywords:
 
 # Hero section
-title: Welcome to Icons User Manual
-description: This document covers pretty much everything you need to know about how to get started and succeed with icons app and services.
+title: Icons Documentation
+description: This document covers everything to get started with our icons. It covers our apps for web, Windows, Mac, and our API.
 buttons:
     - content: VIEW ON GITHUB
       url: 'https://github.com/icons8/lunacy-docs'
@@ -14,15 +14,15 @@ buttons:
 # Grid navigation
 grid_navigation:
     - section: Icons Web App
-      # section-description: 'Under the Standard Framework we consider a set of tools that allows our clients to manually search and retreive icons through a GUI.   This manual covers the icons web app in detail:'
+      # section-description: 'Under the Standard Framework we consider a set of tools that allows our clients to manually search and retreive icons through a GUI. This manual covers the icons web app in detail:'
       icon: 'web-design'
       cards:
       - title: Features
-        excerpt: Grasp of the main icons web app's features
+        excerpt: Search, edit, download, colections, HTML
         url: '/web-app/'
         icon: 'confectionery'
       - title: Licensing
-        excerpt: Learn how NOT to get sued by Icons8
+        excerpt: Learn how _not_ to get sued by Icons8
         url: '/web-app/licensing'
         icon: 'diploma'
     - section: Desktop Apps

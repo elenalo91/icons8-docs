@@ -14,7 +14,7 @@ buttons:
 # Grid navigation
 grid_navigation:
     - section: Icons Web App
-      # section-description: 'Under the Standard Framework we consider a set of tools that allows our clients to manually search and retreive icons through a GUI. This manual covers the icons web app in detail:'
+      section-description: Our web app is much more than a bunch of files. It allows you to recolor our icons, add effects such as a small overlay icon, generate HTML code, organize icons into your collections, and more. 
       icon: 'web-design'
       cards:
       - title: Features
@@ -22,12 +22,12 @@ grid_navigation:
         url: '/web-app/'
         icon: 'confectionery'
       - title: Licensing
-        excerpt: Learn how _not_ to get sued by Icons8
+        excerpt: Learn how NOT to get sued by Icons8
         url: '/web-app/licensing'
         icon: 'diploma'
     - section: Desktop Apps
       icon: 'monitor'
-      section-description: <a href="https://icons8.com/app">Desktop Apps</a> are Windows and Mac icons apps. The main idea behind the desktop apps is to provide offline access to our icons. Download it once and use it offline side by side with design tools of your choice. Ease of search and ease of use! Drag and drop icons from the app right into your design. It is that simple and effective! Take your dev process to the next level with our desktop apps!
+      section-description: <a href="https://icons8.com/app">Desktop apps</a> are the native applications for Windows and Mac. The idea behind the desktop apps is to provide offline access to our icons. Download it once and use it offline side by side with design tools of your choice. Search is instant (you get your search results updated on each key press, so you get the facebook icon immediately after pressing f. Drag and drop icons from the app right into your design. It is that simple and effective! Take your dev process to the next level with our desktop apps!
     - section: Icons API
       icon: 'api'
       # section-description: 'In a short, service integration gives you an ability to access icons programmatically, from within your apps, on the fly in real-time. In particular end-users of your products could generate their own projects, build their own visual content from within your apps tied to our service. The framework consist of search engine that allows to programmatically search for icons metadata and icons retrieval service which utilizes that metadata to actually retrieve icons in various formats, styles, colours, sizes etc. Click on the collapsable items below to read more about each of the topics:'

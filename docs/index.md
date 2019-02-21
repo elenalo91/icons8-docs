@@ -45,7 +45,7 @@ grid_navigation:
         url: '/api/licensing'
         icon: 'agreement'
       - title: 'Use Cases'
-        excerpt: Check the big guys who use our API
+        excerpt: Check the powerful guys who use our API
         url: '/api/use-cases'
         icon: 'hand-cursor'
     - section: FAQ

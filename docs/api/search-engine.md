@@ -24,7 +24,7 @@ page_nav:
      <summary>
        <h2> How it Works? </h2>
      </summary> 
-<p>The engine is a dedicated service. It accepts search queries and returns responses. A response is a JSON containing metadata items for the most relevant icons. The metadata attributes helps you further to filter, group and retrieve icons. This section explains the searching parameters used for the service. You embed these parameters one after another in your query. The order of the parameters can be changed on your own:</p>
+<p>The engine is a dedicated service. It accepts search queries and returns responses. A response is a JSON containing metadata items for the most relevant icons. You can use the metadata to further filter, group, and retrieve icons. This section explains the searching parameters used for the service. You embed these parameters one after another in your query. The order of the parameters is up to you.</p>
    </details>
    </li>
    <li>

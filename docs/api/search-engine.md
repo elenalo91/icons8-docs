@@ -24,7 +24,9 @@ page_nav:
      <summary>
        <h2> How it Works? </h2>
      </summary> 
-<p>The engine is a dedicated service. It accepts search queries and returns responses. A response is a JSON containing metadata items for the most relevant icons. You can use the metadata to further filter, group, and retrieve icons. This section explains the searching parameters used for the service. You embed these parameters one after another in your query. The order of the parameters is up to you.</p>
+<p>Retrieval of the icons is a separate service. Instead of API responses, it returns the icons as PNG files. Powered with a CDN, it's blazing fast. Also, reshaping the icons via an URL is cool.</p>  
+
+<p>It accepts search queries and returns responses. A response is a JSON containing metadata items for the most relevant icons. You can use the metadata to further filter, group, and retrieve icons. This section explains the searching parameters used for the service. You embed these parameters one after another in your query. The order of the parameters is up to you.</p>
    </details>
    </li>
    <li>

@@ -171,7 +171,7 @@ Then click on the icon you'd like to use. When the editor shows up click on the 
 </tr>
 <tr>
 <td>win10</td>
-<td>icons in the Microsoft Windows 10/Threshold</td>
+<td>icons in the Microsoft Windows 10/Threshold style</td>
 </tr>
 <tr>
 <td>ios7</td>

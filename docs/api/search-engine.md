@@ -24,9 +24,9 @@ page_nav:
      <summary>
        <h2> How it Works? </h2>
      </summary> 
-<p>Retrieval of the icons is a separate service. Instead of API responses, it returns the icons as PNG files. Powered with a CDN, it's blazing fast. Also, reshaping the icons via an URL is cool.</p>  
+<p>Retrieval of the icons is a service separate from the search. Instead of JSON responses, it returns directly the icons as PNG files. Powered with a CDN, it's blazing fast. Also, reshaping the icons via an URL is cool.</p>  
 
-<p>It accepts search queries and returns responses. A response is a JSON containing metadata items for the most relevant icons. You can use the metadata to further filter, group, and retrieve icons. This section explains the searching parameters used for the service. You embed these parameters one after another in your query. The order of the parameters is up to you.</p>
+<p>It accepts the search queries and returns the responses. A response is a JSON containing metadata items for the most relevant icons. You can use the metadata to further filter, group, and retrieve icons. This section explains the searching parameters used for the service. You embed these parameters one after another in your query. The order of the parameters is up to you.</p>
    </details>
    </li>
    <li>
@@ -66,7 +66,7 @@ page_nav:
 </tr>
 <tr>
 <td>win10</td>
-<td>icons in the Microsoft Windows 10/Threshold</td>
+<td>icons in the Microsoft Windows 10/Threshold style</td>
 </tr>
 <tr>
 <td>ios7</td>
@@ -255,7 +255,7 @@ page_nav:
      <summary>
        <h2> Sample Request </h2>
      </summary>
-<p><a href="https://api.icons8.com/api/iconsets/v4/search?term=home&amp;amount=50&amp;offset=0&amp;platform=all&amp;language=en-US&amp;token=al05i21yfatb4s5eac20c4wr4394b1z2" rel="nofollow">https://api.icons8.com/api/iconsets/v4/search?term=home&amp;amount=50&amp;offset=0&amp;platform=all&amp;language=en-US&amp;token=al05i21yfatb4s5eac20c4wr4394b1z2</a>.</p>
+<p><a href="https://api.icons8.com/api/iconsets/v4/search?term=home&amp;amount=50&amp;offset=0&amp;platform=all&amp;language=en-US&amp;token=al05i21yfatb4s5eac20c4wr4394b1z2" rel="nofollow">https://api.icons8.com/api/iconsets/v4/search?term=home&amp;amount=50&amp;offset=0&amp;platform=all&amp;language=en-US&amp;token=al05i21yfatb4s5eac20c4wr4394b1z2</a></p>
 <ul>
 <li>search query: "home"</li>
 <li>amount: "50"</li>

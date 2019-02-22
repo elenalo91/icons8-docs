@@ -6,7 +6,7 @@ comments: false
 
 # Hero section
 title: Search Engine
-description: Learn about our searching api capabilities
+description: Learn on how to search icons efficiently
 icon: 'search-more'
 
 # Micro navigation

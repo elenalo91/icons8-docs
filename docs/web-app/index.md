@@ -5,7 +5,7 @@ keywords:
 comments: false
 
 # Hero section
-title: Features
+title: Features of the Icons8 Web App
 description: Grasp of the main icons web app's features
 icon: 'confectionery'
 

@@ -5,7 +5,7 @@ keywords:
 comments: false
 
 # Hero section
-title: Licensing
+title: Licensing of the Icons8 Icons
 description: Learn how NOT to get sued by icons8
 icon: 'lunacy'
 

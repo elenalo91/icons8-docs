@@ -5,7 +5,7 @@ keywords:
 comments: false
 
 # Hero section
-title: Search Engine
+title: How to Search Icons via the Icons8 API
 description: Learn on how to search icons efficiently
 icon: 'search-more'
 

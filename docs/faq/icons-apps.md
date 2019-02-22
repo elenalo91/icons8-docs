@@ -5,7 +5,7 @@ keywords:
 comments: false
 
 # Hero section
-title: Icons Apps
+title: Documentation for the Icon Apps 
 description: Tricky web app questions
 icon: 'ungroup-objects'
 

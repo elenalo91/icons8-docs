@@ -5,7 +5,7 @@ keywords:
 comments: false
 
 # Hero section
-title: Use Cases
+title: Use Cases of the Icons8 API
 description: Check the powerful guys who use our API
 icon: 'hand-cursor'
 
@@ -21,7 +21,10 @@ page_nav:
 
 <ul>
   <li>
-  <p>Template customization. <a href="https://www.canva.com/" rel="nofollow">Canva</a> licensed our icons and photos. Canva users can add them to the artworks they create, paying $1 each.</p>
+  <p><a href="https://www.canva.com/" rel="nofollow">Canva</a> is a service that provides the templates and graphics for the amateur designers.  Canva licensed both our icons and photos. Canva users can add them to the artworks they create, paying $1 each.</p>
+  </li>
+  <li>
+  <p>A similar service, <a href="https://getstencil.com">Stencil</a>, uses our API to insert the icons into their designs.</p>
   </li>
   <li>
   <p>Graphics and text editors. <a href="https://gravit.io/" rel="nofollow">Gravit</a> is a cross-platform design tool consuming our API. It allows users to insert our icons into the mockups.</p>

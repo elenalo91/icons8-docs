@@ -5,7 +5,7 @@ keywords:
 comments: false
 
 # Hero section
-title: Retrieval Engine
+title: How to Retrieve the Icons via Icons8 API
 description: Learn about a fancier way of retrieving icons
 icon: 'search-folder'
 

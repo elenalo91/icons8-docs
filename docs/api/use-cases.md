@@ -21,6 +21,8 @@ page_nav:
 
 <ul>
   <li>
+  <p><a href="https://prezi.com/">Prezi</a> is a presentation tool used by over 100 million people, and we feel the load in our API. Prezi allows users to insert our icons into their presentations. It generates millions of the requests each month.</p>
+
   <p><a href="https://www.canva.com/" rel="nofollow">Canva</a> is a service that provides the templates and graphics for the amateur designers.  Canva licensed both our icons and photos. Canva users can add them to the artworks they create, paying $1 each.</p>
   </li>
   <li>

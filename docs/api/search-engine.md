@@ -237,17 +237,9 @@ page_nav:
    <li>
    <details>
      <summary>
-       <h2> Amount  </h2>
+       <h2> Amount & Offset </h2>
      </summary>
-<p>This field is the largest number of icons which you'd like to receive. The default value is 25.</p>
-   </details>
-   </li>
-   <li>
-   <details>
-     <summary>
-       <h2>  Offset  </h2>
-     </summary>
-<p>This field is the offset from the first received result. The default value is 0.</p>
+<p>Amount field is the largest number of icons which you'd like to receive. The default value is 25. Offset field is the offset from the first received result. The default value is 0. </p>
    </details>
    </li>
    <li>

@@ -6,7 +6,7 @@ comments: false
 
 # Hero section
 title: Search Engine
-description: Learn about our searching api capabilities
+description: Learn on how to search icons efficiently
 icon: 'search-more'
 
 # Micro navigation
@@ -42,7 +42,7 @@ page_nav:
      <summary>
        <h2> Endpoint </h2>
      </summary>
-<p>The endpoint is the URL where our service can be accessed by a client application. The v4 search engine endpoint is: <a href="https://api.icons8.com/api/iconsets/v4/search" rel="nofollow">https://api.icons8.com/api/iconsets/v4/search</a></p>
+<p>The endpoint is the URL where our service can be accessed by a client application. The V4 search engine endpoint is: <a href="https://api.icons8.com/api/iconsets/v4/search" rel="nofollow">https://api.icons8.com/api/iconsets/v4/search</a></p>
    </details>
    </li>
    <li>
@@ -237,17 +237,9 @@ page_nav:
    <li>
    <details>
      <summary>
-       <h2> Amount  </h2>
+       <h2> Amount & Offset </h2>
      </summary>
-<p>This field is the largest number of icons which you'd like to receive. The default value is 25.</p>
-   </details>
-   </li>
-   <li>
-   <details>
-     <summary>
-       <h2>  Offset  </h2>
-     </summary>
-<p>This field is the offset from the first received result. The default value is 0.</p>
+<p>Amount field is the largest number of icons which you'd like to receive. The default value is 25. Offset field is the offset from the first received result. The default value is 0. </p>
    </details>
    </li>
    <li>

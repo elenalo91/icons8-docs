@@ -6,7 +6,7 @@ comments: false
 
 # Hero section
 title: Use Cases
-description: Check the big guys who use our api
+description: Check the powerful guys who use our API
 icon: 'hand-cursor'
 
 # Micro navigation

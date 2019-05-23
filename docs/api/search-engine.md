@@ -268,8 +268,8 @@ page_nav:
 </p><table>
 <thead>
 <tr>
-<th><a target="_blank" rel="noopener noreferrer" href="/icons8-docs/public/icons/v4_Search_JSON_1.png"><img src="/icons8-docs/public/icons/v4_Search_JSON_1.png" style="max-width:100%;"></a></th>
-<th><a target="_blank" rel="noopener noreferrer" href="/icons8-docs/public/icons/v4_Search_JSON_2.png"><img src="/icons8-docs/public/icons/v4_Search_JSON_2.png" style="max-width:100%;"></a></th>
+<th><a target="_blank" rel="noopener noreferrer" href="https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/v4_Search_JSON_1.png"><img src="https://github.com/visualpharm/icons-docs/raw/master/docs/Images/Icons/v4_Search_JSON_1.png" style="max-width:100%;"></a></th>
+<th><a target="_blank" rel="noopener noreferrer" href="https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/v4_Search_JSON_2.png"><img src="https://github.com/visualpharm/icons-docs/raw/master/docs/Images/Icons/icons/v4_Search_JSON_2.png" style="max-width:100%;"></a></th>
 </tr>
 </thead>
 </table>

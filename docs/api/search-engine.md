@@ -48,9 +48,9 @@ page_nav:
    <li>
    <details>
      <summary>
-       <h2> Platform  </h2>
+       <h2> Platform / Platforms  </h2>
      </summary>
-<p>There is a set of parameters or attributes with a name  <code>platform</code> or a <code>platform_api_code</code> or a <code>platform_code.</code>  All these names mean the same thing, the style of the icons.</p>
+<p>Platform parameter states for the styles of the icons. For querying a particular style, you have to assign the corresponding style name to this parameter as follows: "&platforms=ios7". Assigning value "all" to this parameter will trigger the search among the all available styles. For querying a subset of platforms, you may use "platformS" parameter instead of the "platform". "Platforms" parameter takes the actual names of various styles separated by a comma. Here is an example: "&platforms=ios7,material,color,etc..."</p>
  <p align="center">
 </p><table>
 <thead>

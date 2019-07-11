@@ -42,7 +42,7 @@ page_nav:
      <summary>
        <h2> Endpoint </h2>
      </summary>
-<p>The endpoint is the URL where our service can be accessed by a client application. The V4 search engine endpoint is: <a href="https://api.icons8.com/api/iconsets/v4/search" rel="nofollow">https://api.icons8.com/api/iconsets/v4/search</a></p>
+<p>The endpoint is the URL where our service can be accessed by a client application. The V4 search engine endpoint is: <a href="https://search.icons8.com/api/iconsets/v4/search" rel="nofollow">https://search.icons8.com/api/iconsets/v4/search</a></p>
    </details>
    </li>
    <li>

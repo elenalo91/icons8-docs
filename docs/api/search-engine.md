@@ -247,7 +247,7 @@ page_nav:
      <summary>
        <h2> Sample Request </h2>
      </summary>
-<p><a href="https://api.icons8.com/api/iconsets/v4/search?term=home&amp;amount=50&amp;offset=0&amp;platform=all&amp;language=en-US&amp;token=al05i21yfatb4s5eac20c4wr4394b1z2" rel="nofollow">https://api.icons8.com/api/iconsets/v4/search?term=home&amp;amount=50&amp;offset=0&amp;platform=all&amp;language=en-US&amp;token=al05i21yfatb4s5eac20c4wr4394b1z2</a></p>
+<p><a href="https://search.icons8.com/api/iconsets/v4/search?term=home&amp;amount=50&amp;offset=0&amp;platform=all&amp;language=en-US&amp;token=al05i21yfatb4s5eac20c4wr4394b1z2" rel="nofollow">https://search.icons8.com/api/iconsets/v4/search?term=home&amp;amount=50&amp;offset=0&amp;platform=all&amp;language=en-US&amp;token=al05i21yfatb4s5eac20c4wr4394b1z2</a></p>
 <ul>
 <li>search query: "home"</li>
 <li>amount: "50"</li>

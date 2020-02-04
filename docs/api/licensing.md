@@ -29,7 +29,7 @@ page_nav:
      <summary>
        <h2> Paid Option  </h2>
      </summary>
-<p>Paid option means you have to buy an access token. The token is a short string code. You embed the token into your requests for searching and retrieval engines. The same token is used to access both engines. The starter API license is $100/month. It includes up to 100K requests to retrieval engine per month. The requests are the actual, non-cached icons downloads.  Every extra 100K requests add $100 more to the monthly plan. You may not cache the requests on your side for the reasons of fair billing. Requests to search engine have no limit within any API plan. No matter how many retrieval requests you've purchased. You may pay for API license on <a href="https://icons8.recurly.com/subscribe/api_access" rel="nofollow">this page</a>. After we receive payment, we issue an API token for accessing our engines.</p>
+<p>Paid option means you have to buy an access token. The token is a short string code. You embed the token into your requests for searching and retrieval engines. The same token is used to access both engines. The starter API license is $100/month. It includes up to 100K requests to retrieval engine per month. The requests are the actual, non-cached icons downloads.  Every extra 100K requests add $100 more to the monthly plan. You may not cache the requests on your side for the reasons of fair billing. Requests to search engine have no limit within any API plan. No matter how many retrieval requests you've purchased. You may pay for API license on <a href="https://icons8.com/buy/monthly-api-subscription" rel="nofollow">this page</a>. After we receive payment, we issue an API token for accessing our engines.</p>
    </details>
    </li>
     
